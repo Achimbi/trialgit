@@ -1,0 +1,2 @@
+# trialgit
+Learn git terminal
